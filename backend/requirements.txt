@@ -1,0 +1,18 @@
+Flask==2.1.2
+Flask-CORS==4.0.0
+gTTS==2.2.3
+moviepy==1.0.3
+numpy
+requests==2.26.0
+Werkzeug==2.2.3
+pillow==11.2.1
+python-dotenv==1.0.0
+
+# KI-Video APIs (kostenlos)
+replicate
+huggingface-hub
+gradio-client>=0.10.0
+
+torch==2.0.1
+opencv-python
+imageio-ffmpeg
