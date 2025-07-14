@@ -5,11 +5,10 @@ This project is a Text-to-Video Converter with AI-powered video generation and T
 ## 🚀 Features
 
 - **Text-to-Speech**: Convert text to natural-sounding speech
-- **AI Video Generation**: Generate videos using free AI services (Hugging Face Spaces)
-- **Multiple Video Styles**: Explainer, presentation, tutorial, storytelling modes
+- **AI image Generation**: Generate images using free AI services (Hugging Face Spaces)
 - **100% Free**: Uses only free AI APIs and services
 - **Web Interface**: Modern React frontend with TypeScript
-- **Real-time Processing**: Live video generation and preview
+
 
 ## 📁 Project Structure
 
